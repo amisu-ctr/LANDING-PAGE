@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+*{
+    font-family: Poppins;
+}
+body{
+    
+    margin: 0;
+}
+
+.navbar {
+    background: #1F2937;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    right: 0;
+    left: 0;
+    display:
+    
+}
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-top: 10px;
+}
+.logo-left {
+    background-color: darkgreen;
+    border-radius: 4px;
+    padding: 0.4px;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 8px;
+    border-left: solid gold;
+    border-width: 2px;
+    padding-left: 10px;
+}
+
+li>a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+#hero-section {
+    background-color: #1F2937;
+    margin: 0px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    
+
+    
+}
+
+.hero-left-cl{
+     margin-left: 20px;
+     margin-top: 100px;
+}
+
+.hero-header {
+    font-size: 48px;
+    font-weight: bolder;
+    line-height: 35px;
+    margin-left: 50px;
+    color: #F9FAF8;
+}
+
+.hero-small-txt{
+    
+    margin-left: 50px;
+    margin-top: -10px;
+    color: #E5E7EB;
+}
+
+#sign-upbtn{
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 5px 15px ;
+    margin-top: px;
+    font-size: 18px;
+    margin-left: 50px;
+    color: #E5E7EB;
+    line-height: 20px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+
+.hero-right-cl > img {
+    height: 200px;
+    margin-top: 100px;
+    margin-right: 200px;
+    border: solid;
+    
+}
+
+
+
+figure > img {
+    max-width: 100px;
+    
+
+    
+
+    
+}
+.random-information{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+figure {
+    margin: 0;
+    width: 160px;
+    height: 200px;
+    gap: 1;
+    
+}
+#amal {
+    font-weight: bolder;
+    
+}
+
+.quote {
+    background-color: #E5E7EB;
+    height: 300px;
+    font-style: italic;
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+    color: #1F2937;
+}
+
+.call-to-action{
+    background-color: white;
+}
+
+.call-to-action-ctn{
+    background-color: #3882F6;
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.action-bold-txt {
+    font-weight: bolder;
+}
+#signup-id{
+    margin-top: 25px;
+    border: solid white;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.footer-stc{
+    background-color: #1F2937;
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
+
+
+    
+
